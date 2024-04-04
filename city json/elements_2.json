@@ -1,0 +1,2414 @@
+{
+    "jobIds": [
+        "04a0503b-cecd-4faf-895b-924a8bc26663"
+    ],
+    "results": [
+        {
+            "jobId": "04a0503b-cecd-4faf-895b-924a8bc26663",
+            "result": {
+                "data": {
+                    "timestamp": "2023-05-31T23:55:53.778Z",
+                    "rootActivityId": "63755187-b726-45fd-b13e-baf003781c1e",
+                    "descriptor": {
+                        "Select": [
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G0",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "County"
+                                        },
+                                        "Calc": "G0",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).county"
+                            },
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G1",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "Jurisdiction"
+                                        },
+                                        "Calc": "G1",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).jurisdiction"
+                            },
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G2",
+                                "Format": "0",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "Planning Period"
+                                        },
+                                        "Calc": "G2",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).planning_period"
+                            },
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G3",
+                                "Format": "d",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "Received Date"
+                                        },
+                                        "Calc": "G3",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).received date"
+                            },
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G4",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "type"
+                                        },
+                                        "Calc": "G4",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).type"
+                            },
+                            {
+                                "Kind": 1,
+                                "Depth": 0,
+                                "Value": "G5",
+                                "GroupKeys": [
+                                    {
+                                        "Source": {
+                                            "Entity": "housing element mapping (2)",
+                                            "Property": "LinkText"
+                                        },
+                                        "Calc": "G5",
+                                        "IsSameAsSelect": true
+                                    }
+                                ],
+                                "Name": "housing element mapping (2).LinkText"
+                            },
+                            {
+                                "Kind": 2,
+                                "Value": "M0",
+                                "Name": "Min(housing element mapping (2).View Link)"
+                            }
+                        ],
+                        "Expressions": {
+                            "Primary": {
+                                "Groupings": [
+                                    {
+                                        "Keys": [
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "County"
+                                                },
+                                                "Select": 0
+                                            },
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "Jurisdiction"
+                                                },
+                                                "Select": 1
+                                            },
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "Planning Period"
+                                                },
+                                                "Select": 2
+                                            },
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "Received Date"
+                                                },
+                                                "Select": 3
+                                            },
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "type"
+                                                },
+                                                "Select": 4
+                                            },
+                                            {
+                                                "Source": {
+                                                    "Entity": "housing element mapping (2)",
+                                                    "Property": "LinkText"
+                                                },
+                                                "Select": 5
+                                            }
+                                        ],
+                                        "Member": "DM0"
+                                    }
+                                ]
+                            }
+                        },
+                        "Version": 2
+                    },
+                    "metrics": {
+                        "Version": "1.0.0",
+                        "Events": [
+                            {
+                                "Id": "67297823-19ae-4007-8618-0420d3d9ca10",
+                                "Name": "Execute Semantic Query",
+                                "Component": "DSE",
+                                "Start": "2023-05-31T23:55:53.7788827Z",
+                                "End": "2023-05-31T23:55:53.8257896Z"
+                            },
+                            {
+                                "Id": "7fcb03c4-f60c-49af-8887-b6a8c60ab4d5",
+                                "ParentId": "67297823-19ae-4007-8618-0420d3d9ca10",
+                                "Name": "Execute DAX Query",
+                                "Component": "DSE",
+                                "Start": "2023-05-31T23:55:53.7788827Z",
+                                "End": "2023-05-31T23:55:53.8101457Z",
+                                "Metrics": {
+                                    "RowCount": 225
+                                }
+                            },
+                            {
+                                "Id": "53BC1F09-2DDE-44CC-9178-F1D68AB0898D",
+                                "ParentId": "7fcb03c4-f60c-49af-8887-b6a8c60ab4d5",
+                                "Name": "Execute Query",
+                                "Component": "AS",
+                                "Start": "2023-05-31T23:55:53.807Z",
+                                "End": "2023-05-31T23:55:53.82Z"
+                            },
+                            {
+                                "Id": "97D6ACA3-5AEE-4C02-A03A-C2C818031F89",
+                                "ParentId": "53BC1F09-2DDE-44CC-9178-F1D68AB0898D",
+                                "Name": "Serialize Rowset",
+                                "Component": "AS",
+                                "Start": "2023-05-31T23:55:53.82Z",
+                                "End": "2023-05-31T23:55:53.82Z"
+                            }
+                        ]
+                    },
+                    "fromCache": false,
+                    "dsr": {
+                        "Version": 2,
+                        "MinorVersion": 1,
+                        "DS": [
+                            {
+                                "N": "DS0",
+                                "PH": [
+                                    {
+                                        "DM0": [
+                                            {
+                                                "RF": 1,
+                                                "S": [
+                                                    {
+                                                        "N": "G0",
+                                                        "T": 1,
+                                                        "DN": "D0"
+                                                    },
+                                                    {
+                                                        "N": "G1",
+                                                        "T": 1,
+                                                        "DN": "D1"
+                                                    },
+                                                    {
+                                                        "N": "G2",
+                                                        "T": 3
+                                                    },
+                                                    {
+                                                        "N": "G3",
+                                                        "T": 7
+                                                    },
+                                                    {
+                                                        "N": "G4",
+                                                        "T": 1,
+                                                        "DN": "D2"
+                                                    },
+                                                    {
+                                                        "N": "G5",
+                                                        "T": 1,
+                                                        "DN": "D3"
+                                                    },
+                                                    {
+                                                        "N": "M0",
+                                                        "T": 1,
+                                                        "DN": "D4"
+                                                    }
+                                                ],
+                                                "C": [
+                                                    0,
+                                                    0,
+                                                    6,
+                                                    1657238400000,
+                                                    0,
+                                                    0,
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "C": [
+                                                    1665532800000,
+                                                    1,
+                                                    1
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1,
+                                                    1,
+                                                    1631750400000,
+                                                    2,
+                                                    2
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1655769600000,
+                                                    1,
+                                                    3
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1682640000000,
+                                                    4
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    2,
+                                                    2,
+                                                    1659484800000,
+                                                    3,
+                                                    5
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1676505600000,
+                                                    1,
+                                                    6
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    3,
+                                                    3,
+                                                    1611792000000,
+                                                    2,
+                                                    7
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1624579200000,
+                                                    8
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1626825600000,
+                                                    1,
+                                                    9
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1644883200000,
+                                                    10
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1652400000000,
+                                                    11
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1666828800000,
+                                                    12
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    4,
+                                                    4,
+                                                    1658966400000,
+                                                    3,
+                                                    13
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1674691200000,
+                                                    0,
+                                                    14
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    5,
+                                                    5,
+                                                    1666915200000,
+                                                    3,
+                                                    15
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1677456000000,
+                                                    1,
+                                                    16
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    6,
+                                                    1632182400000,
+                                                    2,
+                                                    17
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1644364800000,
+                                                    1,
+                                                    18
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    2,
+                                                    7,
+                                                    1662076800000,
+                                                    3,
+                                                    19
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1673222400000,
+                                                    1,
+                                                    20
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    7,
+                                                    8,
+                                                    1684195200000,
+                                                    3,
+                                                    21
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    8,
+                                                    9,
+                                                    1590019200000,
+                                                    2,
+                                                    22
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1597017600000,
+                                                    1,
+                                                    23
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    10,
+                                                    1586822400000,
+                                                    2,
+                                                    24
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1597190400000,
+                                                    1,
+                                                    25
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    9,
+                                                    11,
+                                                    1602806400000,
+                                                    2,
+                                                    26
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1606953600000,
+                                                    1,
+                                                    27
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    12,
+                                                    1623628800000,
+                                                    2,
+                                                    28
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1631750400000,
+                                                    29
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1637193600000,
+                                                    1,
+                                                    30
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1649116800000,
+                                                    0,
+                                                    31
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1658966400000,
+                                                    1,
+                                                    32
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    13,
+                                                    1631664000000,
+                                                    2,
+                                                    33
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1647302400000,
+                                                    34
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1655251200000,
+                                                    0,
+                                                    35
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1664323200000,
+                                                    1,
+                                                    36
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1,
+                                                    14,
+                                                    1623801600000,
+                                                    2,
+                                                    37
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1635379200000,
+                                                    1,
+                                                    38
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1668470400000,
+                                                    39
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1679529600000,
+                                                    40
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    10,
+                                                    15,
+                                                    1671580800000,
+                                                    3,
+                                                    41
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    3,
+                                                    16,
+                                                    1608249600000,
+                                                    2,
+                                                    42
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1619049600000,
+                                                    1,
+                                                    43
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1670371200000,
+                                                    44
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1677801600000,
+                                                    0,
+                                                    45
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1684108800000,
+                                                    1,
+                                                    46
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    11,
+                                                    17,
+                                                    1672963200000,
+                                                    3,
+                                                    47
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    12,
+                                                    18,
+                                                    1676419200000,
+                                                    48
+                                                ],
+                                                "R": 52
+                                            },
+                                            {
+                                                "C": [
+                                                    1,
+                                                    49
+                                                ],
+                                                "R": 31
+                                            },
+                                            {
+                                                "C": [
+                                                    2,
+                                                    19,
+                                                    1666742400000,
+                                                    0,
+                                                    50
+                                                ],
+                                                "R": 20
+                                            },
+                                            {
+                                                "C": [
+                                                    1676332800000,
+                                                    1,
+                                                    51
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    20,
+                                                    1672358400000,
+                                                    3,
+                                                    52
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    13,
+                                                    21,
+                                                    1572220800000,
+                                                    2,
+                                                    53
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1588032000000,
+                                                    1,
+                                                    54
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    22,
+                                                    1625788800000,
+                                                    2,
+                                                    55
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1634860800000,
+                                                    1,
+                                                    56
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1654128000000,
+                                                    57
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    23,
+                                                    1634083200000,
+                                                    2,
+                                                    58
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1658275200000,
+                                                    1,
+                                                    59
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    14,
+                                                    24,
+                                                    1640217600000,
+                                                    2,
+                                                    60
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1648080000000,
+                                                    0,
+                                                    61
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1657152000000,
+                                                    1,
+                                                    62
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    25,
+                                                    1634860800000,
+                                                    2,
+                                                    63
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1652227200000,
+                                                    0,
+                                                    64
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1663200000000,
+                                                    65
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1670889600000,
+                                                    66
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1683504000000,
+                                                    67
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    15,
+                                                    26,
+                                                    1662681600000,
+                                                    3,
+                                                    68
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1675123200000,
+                                                    1,
+                                                    69
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    27,
+                                                    1634515200000,
+                                                    2,
+                                                    70
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1645747200000,
+                                                    1,
+                                                    71
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1657238400000,
+                                                    72
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    11,
+                                                    28,
+                                                    1664841600000,
+                                                    3,
+                                                    73
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1679616000000,
+                                                    1,
+                                                    74
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    4,
+                                                    29,
+                                                    1657238400000,
+                                                    3,
+                                                    75
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    16,
+                                                    30,
+                                                    1566777600000,
+                                                    2,
+                                                    76
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1582502400000,
+                                                    77
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1586822400000,
+                                                    1,
+                                                    78
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    17,
+                                                    31,
+                                                    1629072000000,
+                                                    79
+                                                ],
+                                                "R": 52
+                                            },
+                                            {
+                                                "C": [
+                                                    18,
+                                                    32,
+                                                    1618358400000,
+                                                    2,
+                                                    80
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1675814400000,
+                                                    3,
+                                                    81
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    19,
+                                                    33,
+                                                    1602028800000,
+                                                    2,
+                                                    82
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1603411200000,
+                                                    1,
+                                                    83
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    34,
+                                                    1559779200000,
+                                                    2,
+                                                    84
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1567555200000,
+                                                    1,
+                                                    85
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    20,
+                                                    35,
+                                                    1633392000000,
+                                                    2,
+                                                    86
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1644451200000,
+                                                    1,
+                                                    87
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1665964800000,
+                                                    88
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    36,
+                                                    1625529600000,
+                                                    2,
+                                                    89
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1637280000000,
+                                                    90
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1651622400000,
+                                                    0,
+                                                    91
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1666137600000,
+                                                    1,
+                                                    92
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1,
+                                                    37,
+                                                    1633478400000,
+                                                    2,
+                                                    93
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1644192000000,
+                                                    1,
+                                                    94
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1675296000000,
+                                                    95
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    5,
+                                                    38,
+                                                    1664236800000,
+                                                    3,
+                                                    96
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1676505600000,
+                                                    0,
+                                                    97
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    39,
+                                                    1634256000000,
+                                                    2,
+                                                    98
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1652745600000,
+                                                    0,
+                                                    99
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1660521600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-adopted081522.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    21,
+                                                    40,
+                                                    1584662400000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/trinidad-6th-draft03202020.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1587513600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/trinidad-6th-adopted042220.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    22,
+                                                    41,
+                                                    1582070400000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/trinity-cou-6th-draft021920.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1585785600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/trinity-cou-6th-adopted040220.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    23,
+                                                    42,
+                                                    1559260800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/truckee-6th-draft053119.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1567123200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/truckee-6th-adopted083019.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    13,
+                                                    43,
+                                                    1558396800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tuolumne-county-6th-draft052119.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1564099200000,
+                                                    4,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tuolumne-county-6th-draft072619.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1568332800000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tuolumne-cou-6th-adopted091319.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    44,
+                                                    1625097600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-draft070121.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1634169600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted101421.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1647907200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted032222.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1658361600000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-draft072122.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1664928000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted100522.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    24,
+                                                    45,
+                                                    1638144000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/twentynine-palms-6th-draft112921.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1649376000000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/twenty-nine-palms-6th-draft040822.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1672790400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/TwentyNinePalms-6th-Adopted-010423.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    25,
+                                                    46,
+                                                    1559001600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-draft052819.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1572220800000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-adopted102819.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    26,
+                                                    47,
+                                                    1658966400000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/union-city-6th-draft072822.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1675036800000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/UnionCity-6th-Draft-013023.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    24,
+                                                    48,
+                                                    1632355200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-draft092321.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1648080000000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-draft032422.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1666656000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-adopted102522.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    11,
+                                                    49,
+                                                    1665964800000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vacaville-6th-draft101722.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1677110400000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Vacaville-6th-Draft-022323.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1,
+                                                    50,
+                                                    1615852800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/ventura-county-6th-draft031721.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1624492800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/ventura-county-6th-draft062421.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1634256000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/ventura-county-6th-adopted101521.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    51,
+                                                    1647475200000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vernon-6th-draft031622.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1678924800000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Vernon-6th-Draft-031623.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    24,
+                                                    52,
+                                                    1626739200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft072021.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1635379200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft102821.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1636675200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft111221.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1642550400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-adopted011922.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    53,
+                                                    1608595200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft122220.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1622764800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft060421.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1633651200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-adopted100821.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1656460800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-adopted062922.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1671148800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft121622.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1684368000000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/VillaPark-6th-Draft-051823.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    3,
+                                                    54,
+                                                    1610668800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-draft011921.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1621468800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-draft052021.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1626134400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-adopted071321.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1648425600000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-adopted032822.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1657584000000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-Adopted-071222.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    55,
+                                                    1633996800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-draft101221.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1651449600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-adopted050222.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1670371200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-adopted120722.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1678406400000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Walnut-6th-Adopted-031023.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1684368000000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Walnut-6th-Adopted-051823.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    27,
+                                                    56,
+                                                    1662422400000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6th-draft090622.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1674777600000,
+                                                    1,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6thAppendix(A)-adopted012723.pdf"
+                                                ],
+                                                "R": 7
+                                            },
+                                            {
+                                                "C": [
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6thAppendix(B)(C)-adopted012723.pdf"
+                                                ],
+                                                "R": 31
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6th-adopted012723.pdf"
+                                                ],
+                                                "R": 31
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    57,
+                                                    1637020800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-covina-6th-draft111621.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1668556800000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/WestCovina-6th-Adopted-111622.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    58,
+                                                    1633305600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-hollywood-6th-draft100421.pdf"
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1664323200000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-hollywood-6th-draft092822.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1677456000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/WestHollywood-6th-Adopted-022723.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    28,
+                                                    59,
+                                                    1611878400000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-draft020221.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1617667200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-draft040621.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1626307200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1638230400000,
+                                                    4,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-ord-6th-adopted113021.pdf"
+                                                ],
+                                                "R": 23
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    60,
+                                                    1621209600000,
+                                                    2,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-draft051721.pdf"
+                                                ],
+                                                "R": 4
+                                            },
+                                            {
+                                                "C": [
+                                                    1630627200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-draft090321.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1639440000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-adopted121421.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    61,
+                                                    1634688000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-draft102021.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1643673600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-adopted020122.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1669939200000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-draft120222.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1679875200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Westminster-6th-Adopted-032723.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    29,
+                                                    62,
+                                                    1660780800000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westmorland-6th-draft081822.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1664409600000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/westmorland-6th-draft092922.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1684108800000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Westmoreland-6th-Draft-051523.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    30,
+                                                    63,
+                                                    1628208000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/wheatland-6th-draft080621.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1649376000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/wheatland-6th-adopted040822.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    0,
+                                                    64,
+                                                    1623369600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-draft061121.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1634256000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-adopted101521.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1660608000000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-adopted081622.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    20,
+                                                    65,
+                                                    1621555200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/wildomar-6th-052121.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1634515200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/wildomar-6th-adopted101821.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    31,
+                                                    66,
+                                                    1592784000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/williams-6th-draft062220.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1607040000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/williams-6th-adopted120420.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    25,
+                                                    67,
+                                                    1567987200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willits-6th-draft090919.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1576540800000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willits-6th-adopted121719.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    32,
+                                                    68,
+                                                    1628208000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-draft080621.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1637107200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-adopted111721.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1658707200000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-adopted072522.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1669161600000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-draft112322.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1676419200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Willows-6th-Adopted-021523.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    2,
+                                                    69,
+                                                    1667347200000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/windsor-6th-draft110222.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1678838400000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Windsor-6th-Draft-031523.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    28,
+                                                    70,
+                                                    1622073600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-draft052721.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1632873600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-adopted092921.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1648512000000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-adopted032922.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    71,
+                                                    1620950400000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft051421.pdf"
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1631491200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-adopted091321.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1655337600000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft061622.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1669593600000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft112822.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1680480000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Woodland-6th-Adopted-040323.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    15,
+                                                    72,
+                                                    1658102400000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/woodside-6th-draft071822.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1678838400000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Woodside-6th-Draft-031623.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    28,
+                                                    73,
+                                                    1623283200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yolo-county-6th-draft061021.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1632441600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yolo-county-6th-adopted092421.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    6,
+                                                    74,
+                                                    1630022400000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-draft082721.pdf"
+                                                ],
+                                                "R": 52
+                                            },
+                                            {
+                                                "C": [
+                                                    1638921600000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-draft120821.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1644451200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-adopted021022.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    33,
+                                                    75,
+                                                    1661126400000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yountville-6th-draft082222.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1677542400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Yountville-6th-Adopted-022823.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    10,
+                                                    76,
+                                                    1663027200000,
+                                                    3,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yreka-6th-draft091222.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1676419200000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/Yreka-6th-Adopted-021523.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    17,
+                                                    77,
+                                                    1623715200000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba-city-6th-draft061521.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1631750400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba-city-6th-adopted091621.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1647388800000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba-6th-adopted031622.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    30,
+                                                    78,
+                                                    1619136000000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba_county-6th-draft042321.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1624579200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba-county-6th-draft062521.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1631577600000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yuba-county-6th-adopted091421.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    24,
+                                                    79,
+                                                    1630540800000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft090221.pdf"
+                                                ],
+                                                "R": 36
+                                            },
+                                            {
+                                                "C": [
+                                                    1653264000000,
+                                                    0,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft052322.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    1662595200000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft090822.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1665014400000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-adopted100622.pdf"
+                                                ],
+                                                "R": 39
+                                            },
+                                            {
+                                                "C": [
+                                                    80,
+                                                    1628726400000,
+                                                    2,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-draft081221.pdf"
+                                                ],
+                                                "R": 37
+                                            },
+                                            {
+                                                "C": [
+                                                    1635465600000,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-draft102921.pdf"
+                                                ],
+                                                "R": 55
+                                            },
+                                            {
+                                                "C": [
+                                                    1649808000000,
+                                                    1,
+                                                    "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-adopted041322.pdf"
+                                                ],
+                                                "R": 39
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "IC": true,
+                                "ValueDicts": {
+                                    "D0": [
+                                        "Los Angeles",
+                                        "Ventura",
+                                        "Sonoma",
+                                        "San Diego",
+                                        "Santa Clara",
+                                        "Marin",
+                                        "Orange",
+                                        "Kern",
+                                        "Shasta",
+                                        "Sierra",
+                                        "Siskiyou",
+                                        "Solano",
+                                        "Santa Barbara",
+                                        "Tuolumne",
+                                        "El Dorado",
+                                        "San Mateo",
+                                        "Lassen",
+                                        "Sutter",
+                                        "Amador",
+                                        "Tehama",
+                                        "Riverside",
+                                        "Humboldt",
+                                        "Trinity",
+                                        "Nevada",
+                                        "San Bernardino",
+                                        "Mendocino",
+                                        "Alameda",
+                                        "Contra Costa",
+                                        "Yolo",
+                                        "Imperial",
+                                        "Yuba",
+                                        "Colusa",
+                                        "Glenn",
+                                        "Napa"
+                                    ],
+                                    "D1": [
+                                        "Santa Monica",
+                                        "Santa Paula",
+                                        "Santa Rosa",
+                                        "Santee",
+                                        "Saratoga",
+                                        "Sausalito",
+                                        "Seal Beach",
+                                        "Sebastopol",
+                                        "Shafter",
+                                        "Shasta County",
+                                        "Shasta Lake",
+                                        "Sierra County",
+                                        "Sierra Madre",
+                                        "Signal Hill",
+                                        "Simi Valley",
+                                        "Siskiyou County",
+                                        "Solana Beach",
+                                        "Solano County",
+                                        "Solvang",
+                                        "Sonoma",
+                                        "Sonoma County",
+                                        "Sonora",
+                                        "South El Monte",
+                                        "South Gate",
+                                        "South Lake Tahoe",
+                                        "South Pasadena",
+                                        "South San Francisco",
+                                        "Stanton",
+                                        "Suisun City",
+                                        "Sunnyvale",
+                                        "Susanville",
+                                        "Sutter County",
+                                        "Sutter Creek",
+                                        "Tehama",
+                                        "Tehama County",
+                                        "Temecula",
+                                        "Temple City",
+                                        "Thousand Oaks",
+                                        "Tiburon",
+                                        "Torrance",
+                                        "Trinidad",
+                                        "Trinity County",
+                                        "Truckee",
+                                        "Tuolumne County",
+                                        "Tustin",
+                                        "Twentynine Palms",
+                                        "Ukiah",
+                                        "Union City",
+                                        "Upland",
+                                        "Vacaville",
+                                        "Ventura County",
+                                        "Vernon",
+                                        "Victorville",
+                                        "Villa Park",
+                                        "Vista",
+                                        "Walnut",
+                                        "Walnut Creek",
+                                        "West Covina",
+                                        "West Hollywood",
+                                        "West Sacramento",
+                                        "Westlake Village",
+                                        "Westminster",
+                                        "Westmorland",
+                                        "Wheatland",
+                                        "Whittier",
+                                        "Wildomar",
+                                        "Williams",
+                                        "Willits",
+                                        "Willows",
+                                        "Windsor",
+                                        "Winters",
+                                        "Woodland",
+                                        "Woodside",
+                                        "Yolo County",
+                                        "Yorba Linda",
+                                        "Yountville",
+                                        "Yreka",
+                                        "Yuba City",
+                                        "Yuba County",
+                                        "Yucaipa",
+                                        "Yucca Valley"
+                                    ],
+                                    "D2": [
+                                        "Subsequent Draft",
+                                        "Adopted",
+                                        "Draft",
+                                        "Initial Draft",
+                                        "Informal"
+                                    ],
+                                    "D3": [
+                                        "Click to View Housing Element",
+                                        "Click to View Sites Inventory",
+                                        "Click to View Adopted Appendix A",
+                                        "Click to View Adopted Appendix B and C",
+                                        "Click to View Ordinance"
+                                    ],
+                                    "D4": [
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-draft070822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-adopted101222.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santa-paula-6th-draft091621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santa-paula-6th-adopted062122.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SantaPaula-6th-Adopted-042823.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santa-rosa-6th-draft080322.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SantaRosa-6th-Adopted-021623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-draft012921.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-draft062521.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted072121.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted021522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted051322.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Santee-6th-Adopted-102722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/saratoga-6th-draft072822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Saratoga-6th-Draft-012623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sausalito-6th-draft103122.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Sausalito-6th-Adopted-022723.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/seal-beach-6th-draft092121.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/seal-beach-6th-adopted020922.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sebastopol-6th-draft090222.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Sebastopol-6th-Adopted-010923.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Shafter-6th-Draft-051623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/shasta-county-6th-draft052120.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/shasta-county-6th-adopted081020.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/shasta-lake-6th-draft041420.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/shasta-lake-6th-adopted081220.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-county-6th-draft101620.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-county-6th-adopted120320.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft061421.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft091621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-adopted11182.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft040522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-adopted072822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft091521.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft031522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft061522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-adopted092822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/simi-valley-6th-draft061621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SimiValley-6th-Adopted-111522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SimiValley-6th-Adopted-032323.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/siskiyou-county-6th-draft122122.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/solana-beach-6th-draft121820.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/solana-beach-6th-adopted042221.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Adopted-120722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Draft-030323.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Adopted-051523.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SollanoCounty-6th-Draft-010623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/solvang-6th-draft010623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/solvang-6thSiteInventory-draft010623.xlsx",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sonoma-6th-draft102622.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Sonoma6th-Adopted-021423.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sonoma-county-6th-draft123022.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sonora-6th-draft102819.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sonora-6th-adopted042820.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-draft070921.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-adopted102221.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-adopted060222.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-gate-6th-draft101321.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-gate-5th-adopted072022.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-draft122321.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-draft032422.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-adopted070722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft102221.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft051122.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-adopted091622.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft121322.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SouthPasadena-6th-Draft-050823.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/south-san-francisco-6th-draft090922.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SouthSanFrancisco-6th-Adopted-013123.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-draft101821.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-adopted022522.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-adopted070822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/suisun-city-6th-draft100422.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/SuisunCity-6th-Adopted-032323.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sunnyvale-6th-draft070822.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-draft082619.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-draft022420.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-adopted041420.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sutter-county-6th-adopted081621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/sutter-creek-6th-draft041421.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Sutter-Creek-6th-Draft-020823.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/tehama-6th-draft100720.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/tehama-6th-adopted102320.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/tehama-cou-6th-draft060619.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/tehama-cou-6th-adopted090419.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-draft100521.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-adopted021022.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-adopted101722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft070621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft111921.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft050422.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-adopted101922.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/thousand-oaks-6th-draft100621.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/thousand-oaks-6th-adopted020722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/ThousandOaks-6th-Adopted-020223.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/tiburon-6th-draft092722.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/Tiburon-6th-Draft-021623.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-draft101521.pdf",
+                                        "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-draft051722.pdf"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,4402 @@
+[
+    {
+        "city": "Adelanto",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Adelanto-6th-Draft-020823.pdf"
+        ]
+    },
+    {
+        "city": "Agoura Hills",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/agoura-hills-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/agoura-hills-6th-draft022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/agoura-hills-6th-draft111621.pdf"
+        ]
+    },
+    {
+        "city": "Alameda",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Alameda-6th-Adopted-111622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/alameda-6th-draft052722.pdf"
+        ]
+    },
+    {
+        "city": "Albany",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Albany-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/albany-6th-draft091222.pdf"
+        ]
+    },
+    {
+        "city": "Alhambra",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Alhambra-6th-Draft-041323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/alhambra-6th-draft081122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/alhambra-6th-adopted020822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/alhambra-6th-draft100521.pdf"
+        ]
+    },
+    {
+        "city": "Aliso Viejo",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/aliso-viejo-6th-adopted020122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/aliso-viejo-6th-draft081921.pdf"
+        ]
+    },
+    {
+        "city": "Alturas",
+        "county": "Modoc",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/alturas-6th-adopted030320.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/alturas-6th-draft093019.pdf"
+        ]
+    },
+    {
+        "city": "Amador City",
+        "county": "Amador",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "American Canyon",
+        "county": "Napa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/AmericanCanyon-6th-Draft-050123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/AmericanCanyon-6th-Draft-111422.pdf"
+        ]
+    },
+    {
+        "city": "Anaheim",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Anaheim-6th-Draft-050323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/anaheim-6th-draft062422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/anaheim-6th-draft101521.pdf"
+        ]
+    },
+    {
+        "city": "Anderson",
+        "county": "Shasta",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/anderson-6th-adopted072420.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/anderson-6th-draft052120.pdf"
+        ]
+    },
+    {
+        "city": "Angels",
+        "county": "Calaveras",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/angels-camp-6th-draft071819.pdf"
+        ]
+    },
+    {
+        "city": "Antioch",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Antioch-6th-Adopted-020323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/antioch-6th-draft070122.pdf"
+        ]
+    },
+    {
+        "city": "Apple Valley",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/AppleValley-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/apple-valley-6th-draft120622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/apple-valley-6th-draft091922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/apple-valley-6th-adopted032922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/apple-valley-6th-draft101521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/apple-valley-6th-draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Arcadia",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/arcadia-6th-adopted110822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arcadia-6th-draft083122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arcadia-6th-draft060322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arcadia-6th-draft122921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arcadia-6th-draft093021.pdf"
+        ]
+    },
+    {
+        "city": "Arcata",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/arcata-6th-adopted122319.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arcata-6th-draft110619.pdf"
+        ]
+    },
+    {
+        "city": "Arroyo Grande",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-sites-inventory-adopted021121.xlsm",
+            "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-adopted021121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/arroyo-grande-6th-draft101220.pdf"
+        ]
+    },
+    {
+        "city": "Artesia",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/artesia-6th-adopted032322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/artesia-6th-draft110321.pdf"
+        ]
+    },
+    {
+        "city": "Arvin",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Atascadero",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/atascadero-6th-adopted120920.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/atascadero-6th-draft091420.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/atascadero-6th-draft072320.pdf"
+        ]
+    },
+    {
+        "city": "Atherton",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Atherton-6th-Adopted-020323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/atherton-6th-draft080222.pdf"
+        ]
+    },
+    {
+        "city": "Atwater",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Auburn",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/auburn-6th-adopted060321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/auburn-6th-draft_update022221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/auburn-6th-draft112020.pdf"
+        ]
+    },
+    {
+        "city": "Avalon",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/avalon-6th-adopted092922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/avalon-6th-draft080222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/avalon-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/avalon-6th-draft120321.pdf"
+        ]
+    },
+    {
+        "city": "Avenal",
+        "county": "Kings",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Azusa",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Azusa-6th-Adopted-032823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Azusa-6th-Adopted-111722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/azusa-6th-adopted032122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/azusa-6th-draft092921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/azusa-6th-draft070621.pdf"
+        ]
+    },
+    {
+        "city": "Bakersfield",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Baldwin Park",
+        "county": "Los Angeles",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/BaldwinPark-6th-Draft-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/baldwin-park-6th-draft090922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/baldwin-park-6th-draft102921.pdf"
+        ]
+    },
+    {
+        "city": "Banning",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/banning-6th-adopted111021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/banning-6th-draft072221.pdf"
+        ]
+    },
+    {
+        "city": "Barstow",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/barstow-6th-draft121721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/barstow-6th-draft080221.pdf"
+        ]
+    },
+    {
+        "city": "Beaumont",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/beaumont-6th-adopted101822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/beaumont-6th-draft042822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/beaumont-6th-draft070721.pdf"
+        ]
+    },
+    {
+        "city": "Bell",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-6th-adopted101322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-6th-draft083022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-6th-draft090821.pdf"
+        ]
+    },
+    {
+        "city": "Bell Gardens",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-gardens-adopted072722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-gardens-adopted022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bell-gardens-6th-draft090921.pdf"
+        ]
+    },
+    {
+        "city": "Bellflower",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/bellflower-6th-draft072122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bellflower-6th-draft021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bellflower-6th-draft101821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bellflower-6th-draft072221.pdf"
+        ]
+    },
+    {
+        "city": "Belmont",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Belmont-6th-Adopted-020223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/belmont-6th-draft082422.pdf"
+        ]
+    },
+    {
+        "city": "Belvedere",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Belvedere-6th-Draft-013123.pdf"
+        ]
+    },
+    {
+        "city": "Benicia",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Benicia-6th-Adopted-020623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/benicia-6th-draft082522.pdf"
+        ]
+    },
+    {
+        "city": "Berkeley",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Berkeley-6th-Adopted-012423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/berkeley-6th-draft120122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/berkeley-6th-draft081022.pdf"
+        ]
+    },
+    {
+        "city": "Beverly Hills",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/BeverlyHills-6th-Adopted-031323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/beverly-hills-6th-adopted092922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/beverly-hills-6th-adopted101821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/beverly-hills-6th-draft060221.pdf"
+        ]
+    },
+    {
+        "city": "Big Bear Lake",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/big-bear-lake-6th-adopted092322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/big-bear-lake-6th-draft060722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/big-bear-lake-6th-adopted121321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/big-bear-lake-6th-draft072221.pdf"
+        ]
+    },
+    {
+        "city": "Biggs",
+        "county": "Butte",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/biggs-6th-draft082222.pdf"
+        ]
+    },
+    {
+        "city": "Bishop",
+        "county": "Inyo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/bishop-6th-adopted060922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bishop-6th-draft020422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bishop-6th-adopted082621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bishop-6th-draft041621.pdf"
+        ]
+    },
+    {
+        "city": "Blue Lake",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/BlueLake-6th-Draft-042823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/blue-lake-6th-draft053122.pdf"
+        ]
+    },
+    {
+        "city": "Blythe",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Blythe-6th-Draft-032823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/blythe-6th-draft080222.pdf"
+        ]
+    },
+    {
+        "city": "Bradbury",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Bradbury-6th-Draft-040623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/bradbury-6th-draft061522.pdf"
+        ]
+    },
+    {
+        "city": "Brawley",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/brawley-6th-draft081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brawley-6th-adopted111821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brawley-6th-draft061521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Brawley-6th-Draft-00923.pdf"
+        ]
+    },
+    {
+        "city": "Brea",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/brea-6th-adopted081722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brea-6th-draft080322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brea-6th-adopted100521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brea-6th-draft061721.pdf"
+        ]
+    },
+    {
+        "city": "Brentwood",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Brentwood-6th-Draft-031723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brentwood-6th-draft101722.pdf"
+        ]
+    },
+    {
+        "city": "Brisbane",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Brisbane-6th-Draft-05152023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Brisbane-6th-Adopted-051923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Brisbane-6th-Adopted-020823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/brisbane-6th-draft100722.pdf"
+        ]
+    },
+    {
+        "city": "Buellton",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Buellton-6th-Draft-030323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/buellton-6th-draft100622.pdf"
+        ]
+    },
+    {
+        "city": "Buena Park",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/buena-park-6th-adopted092022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/buena-park-6th-adopted020122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/buena-park-6th-draft101521.pdf"
+        ]
+    },
+    {
+        "city": "Burbank",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/burbank-6th-adopted092822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/burbank-6th-draft081822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/burbank-6th-draft040422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/burbank-6th-draft120321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/burbank-6th-draft061821.pdf"
+        ]
+    },
+    {
+        "city": "Burlingame",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Burlingame-6th-Draft-021723.pdf"
+        ]
+    },
+    {
+        "city": "Calabasas",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/calabasas-6th-adopted040122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calabasas-6th-adopted102621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calabasas-6th-draft070821.pdf"
+        ]
+    },
+    {
+        "city": "Calexico",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/calexico-6th-draft071322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calexico-6th-draft093021.pdf"
+        ]
+    },
+    {
+        "city": "California City",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Calimesa",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/calimesa-6th-draft112922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calimesa-6th-draft080922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calimesa-6th-draft121721.pdf"
+        ]
+    },
+    {
+        "city": "Calipatria",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/calipatria-6th-adopted080522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calipatria-6th-adopted051722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calipatria-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calipatria-6th-adopted101321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calipatria-6th-draft080221.pdf"
+        ]
+    },
+    {
+        "city": "Calistoga",
+        "county": "Napa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/calistoga-6th-draft123022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/calistoga-6th-draft052622.pdf"
+        ]
+    },
+    {
+        "city": "Camarillo",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Camarillo-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/camarillo-6th-adopted102422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/camarillo-6th-adopted101121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/camarillo-6th-draft052821.pdf"
+        ]
+    },
+    {
+        "city": "Campbell",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Campbell-6th-Adopted-042623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/campbell-6th-draft122722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/campbell-6th-draft080522.pdf"
+        ]
+    },
+    {
+        "city": "Canyon Lake",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/canyon-lake-6th-adopted081922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/canyon-lake-6th-adopted021522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/canyon-lake-6th-draft100821.pdf"
+        ]
+    },
+    {
+        "city": "Capitola",
+        "county": "Santa Cruz",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Carlsbad",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/carlsbad-6th-adopted041521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/carlsbad-6th-draft122820.pdf"
+        ]
+    },
+    {
+        "city": "Carmel-by-the-Sea",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Carpinteria",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Carpinteria-6th-Adopted-041323.pdf"
+        ]
+    },
+    {
+        "city": "Carson",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/carson-6th-adopted091222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/carson-6th-adopted030722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/carson-6th-draft101121.pdf"
+        ]
+    },
+    {
+        "city": "Cathedral City",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/cathedral-city-6th-draft102521.pdf"
+        ]
+    },
+    {
+        "city": "Ceres",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Cerritos",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/cerritos-6th-adopted072922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cerritos-6th-adopted020322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cerritos-6th-draft102221.pdf"
+        ]
+    },
+    {
+        "city": "Chico",
+        "county": "Butte",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Chico-6th-Draft-042023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chico-6th-draft090722.pdf"
+        ]
+    },
+    {
+        "city": "Chino",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Chino-6th-Draft-012023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-6th-draft092722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-6th-adopted021822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-6th-draft090321.pdf"
+        ]
+    },
+    {
+        "city": "Chino Hills",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-hills-adopted081722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-hills-6th-draft080422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-hills-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-hills-6th-draft101421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chino-hills-6th-draft070621.pdf"
+        ]
+    },
+    {
+        "city": "Chowchilla",
+        "county": "Madera",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Chula Vista",
+        "county": "San Diego",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/chula-vista-6th-adopted082922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chula-vista-6th-adopted080621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chula-vista-6th-draft070621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/chula_vista_6thdraft022521.pdf"
+        ]
+    },
+    {
+        "city": "Citrus Heights",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/citrus-heights-6th-adopted052821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/citrus-heights-6th-draft042721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/citrus-heights-6th-draft012121.pdf"
+        ]
+    },
+    {
+        "city": "Claremont",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Claremont-6th-Draft-022823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Claremont-6th-Draft-111622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/claremont-6th-draft120921.pdf"
+        ]
+    },
+    {
+        "city": "Clayton",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Clayton-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/clayton-6th-draft071422.pdf"
+        ]
+    },
+    {
+        "city": "Clearlake",
+        "county": "Lake",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/clearlake-6th-adopted102819.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/clearlake-6th-draft061419.pdf"
+        ]
+    },
+    {
+        "city": "Cloverdale",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Cloverdale-6th-Adopted-050123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cloverdale-6th-draft120922.pdf"
+        ]
+    },
+    {
+        "city": "Clovis",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Clovis-6th-Draft-051623.pdf"
+        ]
+    },
+    {
+        "city": "Coachella",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/coachella-6th-draft101122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/coachella-6th-draft092821.pdf"
+        ]
+    },
+    {
+        "city": "Coalinga",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Colfax",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/colfax-6th-adopted100521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colfax_6th_draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Colma",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Colma-6th-Adopted-013023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colma-6th-draft061622.pdf"
+        ]
+    },
+    {
+        "city": "Colton",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Colton-6th-Adopted-030823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colton-6th-adopted011922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colton-6th-draft080521.pdf"
+        ]
+    },
+    {
+        "city": "Colusa",
+        "county": "Colusa",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/colusa-6th-adopted123120.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colusa-6th-draft090220.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/colusa-cou-6th-draft031620.pdf"
+        ]
+    },
+    {
+        "city": "Commerce",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": []
+    },
+    {
+        "city": "Compton",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": []
+    },
+    {
+        "city": "Concord",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Concord-6th-Adopted-032123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/concord-6th-draft081622.pdf"
+        ]
+    },
+    {
+        "city": "Corcoran",
+        "county": "Kings",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Corning",
+        "county": "Tehama",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/corning-6th-adopted011121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/corning-6th-draft111820.pdf"
+        ]
+    },
+    {
+        "city": "Corona",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/corona-6th-adopted100422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/corona-6th-adopted110521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/corona-6th-draft070121.pdf"
+        ]
+    },
+    {
+        "city": "Coronado",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/coronado-6th-adopted081021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/coronado-6th-draft031721.pdf"
+        ]
+    },
+    {
+        "city": "Corte Madera",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/CorteMadera-6th-Draft-050423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/CorteMadera-6th-Draft-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/corte-madera-draft082322.pdf"
+        ]
+    },
+    {
+        "city": "Costa Mesa",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/CostaMesa-6th-Adopted-031023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/costa-mesa-6th-draft112322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/costa-mesa-6th-adopted020422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/costa-mesa-6th-draft100621.pdf"
+        ]
+    },
+    {
+        "city": "Cotati",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Cotati-6th-Adopted-040323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Cotati-6th-Draft-111822.pdf"
+        ]
+    },
+    {
+        "city": "Covina",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/covina-6th-adopted101922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/covina-6th-draft113021.pdf"
+        ]
+    },
+    {
+        "city": "Crescent City",
+        "county": "Del Norte",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/CrescentCity-6th-Draft-040723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/crescent-city-6th-draft122722.pdf"
+        ]
+    },
+    {
+        "city": "Cudahy",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Cudahy-6th-Draft-051823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Cudahy-6th-Draft-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cudahy-6th-subsequentdraft052322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cudahy-6th-draft101521.pdf"
+        ]
+    },
+    {
+        "city": "Culver City",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/culver-city-6th-adopted081122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/culver-city-6th-Adopted-022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/culver-city-6th-draft090921.pdf"
+        ]
+    },
+    {
+        "city": "Cupertino",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Cupertino-6th-Draft-020323.pdf"
+        ]
+    },
+    {
+        "city": "Cypress",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/cypress-6th-adopted071222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cypress-6th-draft031522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/cypress-6th-draft101221.pdf"
+        ]
+    },
+    {
+        "city": "Daly City",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": []
+    },
+    {
+        "city": "Dana Point",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/dana-point-6th-adopted092322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dana-point-6th-draft072022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dana-point-6th-adopted020322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dana-point-6th-draft101921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dana-point-6th-draft061721.pdf"
+        ]
+    },
+    {
+        "city": "Danville",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Danville-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/danville-6th-draft081522.pdf"
+        ]
+    },
+    {
+        "city": "Davis",
+        "county": "Yolo",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Davis-6th-Adopted-020223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/davis-6th-adopted091021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/davis_6th_draft050321.pdf"
+        ]
+    },
+    {
+        "city": "Del Mar",
+        "county": "San Diego",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/DelMar-6th-Adopted-040623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/DelMar-6th-Draft-111422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/del-mar-6th-adopted122121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/del-mar-6th-adopted040921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/del-mar-6th-draft030821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/del-mar-6th-draft102020.pdf"
+        ]
+    },
+    {
+        "city": "Del Rey Oaks",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/DelReyOaks-6th-Adopted-042123.pdf"
+        ]
+    },
+    {
+        "city": "Delano",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Desert Hot Springs",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/DesertHotSprings-6th-Adopted-111522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/desert-hot-springs-6th-draft072822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/desert-hot-springs-6th-adopted111821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/desert-hot-springs-6th-draft061621.pdf"
+        ]
+    },
+    {
+        "city": "Diamond Bar",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/diamond-bar-6th-adopted081222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/diamond-bar-6th-adopted110421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/diamond_bar_6th_draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Dinuba",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Dixon",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Dixon-6th-Adopted-032723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dixon-6th-draft092722.pdf"
+        ]
+    },
+    {
+        "city": "Dorris",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Dos Palos",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Downey",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/downey-6th-adopted101322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/downey-6th-draft122221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/downey-6th-draft091521.pdf"
+        ]
+    },
+    {
+        "city": "Duarte",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/duarte-6th-adopted013122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/duarte-6th-draft100821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/duarte-6th-draft062121.pdf"
+        ]
+    },
+    {
+        "city": "Dublin",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Dublin-6th-Adopted-111822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/dublin-6th-draft053122.pdf"
+        ]
+    },
+    {
+        "city": "Dunsmuir",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "East Palo Alto",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/EastPaloAlto-6th-Adopted-022423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/east-palo-alto-6th-draft102122.pdf"
+        ]
+    },
+    {
+        "city": "Eastvale",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/eastvale-6th-adopted050622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/eastvale-6th-draft021622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/east-vale-6th-draft111621.pdf"
+        ]
+    },
+    {
+        "city": "El Cajon",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/el-cajon-6th-adopted101322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ElCajon-6th-Draft-100422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-cajon-6th-adopted060322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-cajon-6th-adopted080221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-cajon-6th-draft032321.pdf"
+        ]
+    },
+    {
+        "city": "El Centro",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/el-centro-6th-adopted021822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-centro-6th-draft090721.pdf"
+        ]
+    },
+    {
+        "city": "El Cerrito",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ElCerrito-6th-Draft-032023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-cerrito-6th-draft091922.pdf"
+        ]
+    },
+    {
+        "city": "El Monte",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/el-monte-6th-adopted080222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-monte-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-monte-6th-draft101221.pdf"
+        ]
+    },
+    {
+        "city": "El Segundo",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ElSegundo-6th-Adopted-111822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-segundo-6th-adopted020722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/el-segundo-6th-draft101121.pdf"
+        ]
+    },
+    {
+        "city": "Elk Grove",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/elk-grove-6th-adopted121321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/elk-grove-6th-draft102521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/elk-grove-6th-adopted061021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/elk_grove_6th_draft021621.pdf"
+        ]
+    },
+    {
+        "city": "Emeryville",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Emeryville-6th-Draft-012023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/emeryville-6th-draft080222.pdf"
+        ]
+    },
+    {
+        "city": "Encinitas",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-HEsection1Draft-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAFinalPart1-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixBFinal-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-HEsection1Final-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAPublicDraftPart3-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAFinalPart3-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixCPublicDraftPart2-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixBPublicDraft-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAFinalPart4-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAPublicDraftPart2-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixCPublicDraftPart1-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixCFinal-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAPublicDraftPart1-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-AppendixAFinalPart2-adopted041421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-draft120720.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/encinitas-6th-draft063020.pdf"
+        ]
+    },
+    {
+        "city": "Escalon",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Escondido",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Escondido-6th-Adopted-032823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/escondido-6th-draft101822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/escondido-6th-draft060322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/escondido-6th-draft061721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/escondido-6th-draft032621.pdf"
+        ]
+    },
+    {
+        "city": "Etna",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Eureka",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/eureka-6th-adopted110322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/eureka-6th-draft061522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/eureka-6th-draft030922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/eureka-6th-adopted121819.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/eureka-6th-draft071719.pdf"
+        ]
+    },
+    {
+        "city": "Exeter",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Fairfax",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Fairfax-6th-Draft-051523.pdf"
+        ]
+    },
+    {
+        "city": "Fairfield",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Fairfield-6th-Adopted-020923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fairfield-6th-draft100622.pdf"
+        ]
+    },
+    {
+        "city": "Farmersville",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/farmersville-5th-adopted050216.pdf"
+        ]
+    },
+    {
+        "city": "Ferndale",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ferndale-6th-adopted102919.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ferndale-6th-draft070219.pdf"
+        ]
+    },
+    {
+        "city": "Fillmore",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Fillmore-6th-Draft-112122.pdf"
+        ]
+    },
+    {
+        "city": "Firebaugh",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Folsom",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/folsom-6th-adopted082721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/folsom-6th-draft061021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/folsom-6th-draft021621.pdf"
+        ]
+    },
+    {
+        "city": "Fontana",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/fontana-6th-draft072922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fontana-6th-draft011322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fontana-6th-draft102221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fontana-6th-draft062521.pdf"
+        ]
+    },
+    {
+        "city": "Fort Bragg",
+        "county": "Mendocino",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/fort-bragg-6th-adopted092419.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fort-bragg-6th-draft052819.pdf"
+        ]
+    },
+    {
+        "city": "Fort Jones",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Fortuna",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/fortuna-6th-adopted082619.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fortuna-6th-draft060619.pdf"
+        ]
+    },
+    {
+        "city": "Foster City",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/FosterCity-6th-Draft-022423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/foster-city-6th-draft070522.pdf"
+        ]
+    },
+    {
+        "city": "Fountain Valley",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/fountain-valley-6th-adopted100722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fountain-valley-6th-draft080522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fountain-valley-6th-draft101421.pdf"
+        ]
+    },
+    {
+        "city": "Fowler",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Fremont",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Fremont-6th-Adopted-012323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/fremont-6th-draft082522.pdf"
+        ]
+    },
+    {
+        "city": "Fresno",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Fullerton",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/fullerton-6th-draft113021.pdf"
+        ]
+    },
+    {
+        "city": "Galt",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/galt-6th-adopted050422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/galt-6th-draft020822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/galt-6th-adopted090821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/galt-6th-draft051121.pdf"
+        ]
+    },
+    {
+        "city": "Garden Grove",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/GardenGrove-6th-Draft-111822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/garden-grove-6th-adopted111221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/garden-grove-6th-draft071421.pdf"
+        ]
+    },
+    {
+        "city": "Gardena",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Gardena-6th-Adopted-021723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Gardena-Gardena-6th-Draft-013023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/gardena-6th-draft072722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/gardena-6th-adopted020722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/gardena-6th-draft123021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/gardena-6th-draft092721.pdf"
+        ]
+    },
+    {
+        "city": "Gilroy",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Gilroy-6th-Adopted-050823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/gilroy-6th-draft103122.pdf"
+        ]
+    },
+    {
+        "city": "Glendale",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Glendale-5th-Adopted-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-adopted121422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-adopted022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-sites-inventory-sheet2-adopted022222.xlsm",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-sites-inventory-sheet1-adopted022222.xlsm",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-sites-inventory-sheet3-adopted022222.xlsm",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendale-6th-draft110221.pdf"
+        ]
+    },
+    {
+        "city": "Glendora",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/glendora-6th-adopted121622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendora-6th-draft122121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/glendora-6th-draft090321.pdf"
+        ]
+    },
+    {
+        "city": "Goleta",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Goleta-6th-Adopted-012323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/goleta-6th-draft063022.pdf"
+        ]
+    },
+    {
+        "city": "Gonzales",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Grand Terrace",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/grand-terrace-6th-draft121521.pdf"
+        ]
+    },
+    {
+        "city": "Grass Valley",
+        "county": "Nevada",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/grass-valley-6th-adopted081619.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/grass-valley-6th-draft041719.pdf"
+        ]
+    },
+    {
+        "city": "Greenfield",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Gridley",
+        "county": "Butte",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Grover Beach",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/grover-beach-6th-adopted120220.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/grover-beach-6th-draft072820.pdf"
+        ]
+    },
+    {
+        "city": "Guadalupe",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Gustine",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Half Moon Bay",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": []
+    },
+    {
+        "city": "Hanford",
+        "county": "Kings",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Hawaiian Gardens",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/HawaiianGardens-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hawaiian-gardens-6th-draft081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hawaiian-gardens-6th-draft121621.pdf"
+        ]
+    },
+    {
+        "city": "Hawthorne",
+        "county": "Los Angeles",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/hawthorne-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hawthorne-6th-draft102021.pdf"
+        ]
+    },
+    {
+        "city": "Hayward",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Hayward-6th-Adopted-021323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Hayward-6th-Draft-010323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hayward-6th-draft083022.pdf"
+        ]
+    },
+    {
+        "city": "Healdsburg",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Healdsburg-6th-Adopted-050223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Healdsburg-6th-Draft-111522.pdf"
+        ]
+    },
+    {
+        "city": "Hemet",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/hemet-6th-adopted020922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hemet-6th-draft102721.pdf"
+        ]
+    },
+    {
+        "city": "Hercules",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Hercules-6th-Draft-040323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Hercules-6th-Draft-010523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hercules-6th-draft080922.pdf"
+        ]
+    },
+    {
+        "city": "Hermosa Beach",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/hermosa-beach-6th-adopted122321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hermosa-beach-6th-draft080521.pdf"
+        ]
+    },
+    {
+        "city": "Hesperia",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Hesperia-6th-Draft-012523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hesperia-6th-draft090722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hesperia-6th-draft040522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hesperia-6th-draft112221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hesperia-6th-draft041420.pdf"
+        ]
+    },
+    {
+        "city": "Hidden Hills",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/HiddenHills-6th-Adopted-050223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hidden-hills-6th-adopted071222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hidden-hills-6th-draft112321.pdf"
+        ]
+    },
+    {
+        "city": "Highland",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/highland-6th-adopted021422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/highland-6th-draft082621.pdf"
+        ]
+    },
+    {
+        "city": "Hillsborough",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Hillsborough-6th-Draft-030923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/hillsborough-6th-draft101222.pdf"
+        ]
+    },
+    {
+        "city": "Hollister",
+        "county": "San Benito",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Holtville",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/holtville-6th-adopted061322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/holtville-6th-draft052322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/holtville-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/holtville-6th-adopted101321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/holtville-6th-draft081021.pdf"
+        ]
+    },
+    {
+        "city": "Hughson",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Huntington Beach",
+        "county": "Orange",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-beach-6th-draft080122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-beach-6th-draft041122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-beach-6th-draft120721.pdf"
+        ]
+    },
+    {
+        "city": "Huntington Park",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/HuntingtonPark-6th-Draft-020823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-park-6th-draft062722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-park-6th-draft111821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/huntington-park-6th-draft080621.pdf"
+        ]
+    },
+    {
+        "city": "Huron",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Imperial",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-6th-adopted092222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-6th-draft050622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-6th-adopted020922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-6th-draft010422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-6th-draft080421.pdf"
+        ]
+    },
+    {
+        "city": "Imperial Beach",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-beach-6th-adopted062821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial-beach-6th-draft052721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/imperial_beach-6th-draft012521.pdf"
+        ]
+    },
+    {
+        "city": "Indian Wells",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/indian-wells-6th-adopted061322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/indian-wells-6th-draft120221.pdf"
+        ]
+    },
+    {
+        "city": "Indio",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-adopted040722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-adopted012122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/indio-6th-draft081321.pdf"
+        ]
+    },
+    {
+        "city": "Industry",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/industry-6th-draft122122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/industry-6th-draft071322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/industry-6th-draft102821.pdf"
+        ]
+    },
+    {
+        "city": "Inglewood",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Inglewood-6th-Draft-042423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/inglewood-6th-draft020122.pdf"
+        ]
+    },
+    {
+        "city": "Ione",
+        "county": "Amador",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Ione-6th-Draft-020823.pdf"
+        ]
+    },
+    {
+        "city": "Irvine",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/irvine-6th-adopted051222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/irvine-6th-draft031022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/irvine-6th-draft120321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/irvine-6th-draft081921.pdf"
+        ]
+    },
+    {
+        "city": "Irwindale",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Irwindale-6th-Draft-011923.pdf"
+        ]
+    },
+    {
+        "city": "Isleton",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/isleton-6th-adopted100622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/isleton-6th-adopted091021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/isleton-6th-draft051421.pdf"
+        ]
+    },
+    {
+        "city": "Jackson",
+        "county": "Amador",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Jackson-6th-Draft-020823.pdf"
+        ]
+    },
+    {
+        "city": "Jurupa Valley",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/jurupa-valley-6th-adopted022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/jurupa-valley-6th-draft101521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/jurupa-valley-6th-draft052721.pdf"
+        ]
+    },
+    {
+        "city": "Kerman",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "King City",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Kingsburg",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "La Canada Flintridge",
+        "county": "Los Angeles",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LaCanadaFlintridge-6th-Adopted-022323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-canada-flintridge-6th-adopted100722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-canada-flintridge-6th-draft100621.pdf"
+        ]
+    },
+    {
+        "city": "La Habra",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LaHabra-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-6th-adopted121522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-6th-adopted092122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-6th-draft032422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-6th-draft090221.pdf"
+        ]
+    },
+    {
+        "city": "La Habra Heights",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-heights-6th-adopted081022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-habra-heights-6th-draft031522.pdf"
+        ]
+    },
+    {
+        "city": "La Mesa",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LaMesa-6th-Adodpted-050823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mesa-6th-adopted050922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mesa-6th-adopted080221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mesa-6th-draft062421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mesa-6th-draft021821.pdf"
+        ]
+    },
+    {
+        "city": "La Mirada",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mirada-6th-draft101822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-mirada-6th-draft050322.pdf"
+        ]
+    },
+    {
+        "city": "La Palma",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LaPalma-6th-Adopted-041423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-palma-6th-adopted101221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-palma-6th-draft062121.pdf"
+        ]
+    },
+    {
+        "city": "La Puente",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/la-puente-6th-adopted080922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-puente-6th-adopted022422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-puente-6th-draft112421.pdf"
+        ]
+    },
+    {
+        "city": "La Quinta",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/la-quinta-6th-adopted092722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-quinta-6th-draft061322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-quinta-6th-adopted030122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-quinta-6th-draft092721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-quinta-6th-draft051021.pdf"
+        ]
+    },
+    {
+        "city": "La Verne",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/la-verne-6th-adopted120722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-verne-6th-draft080522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/la-verne-6th-draft120221.pdf"
+        ]
+    },
+    {
+        "city": "Lafayette",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Lafayette-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lafayette-6th-draft070122.pdf"
+        ]
+    },
+    {
+        "city": "Laguna Beach",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LagunaBeach-6th-Adopted-012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-beach-6th-adopted020422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-beach-6th-draft092821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna_beach_6th_draft041921.pdf"
+        ]
+    },
+    {
+        "city": "Laguna Hills",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LagunaHills-6th-Draft-030923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-hills-6th-draft081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-hills-6th-draft060322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-hills-6th-draft110521.pdf"
+        ]
+    },
+    {
+        "city": "Laguna Niguel",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LagunaNiguel-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-niguel-6th-draft062221.pdf"
+        ]
+    },
+    {
+        "city": "Laguna Woods",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LagunaWoods-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-woods-6th-adopted081222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-woods-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/laguna-woods-6th-draft072221.pdf"
+        ]
+    },
+    {
+        "city": "Lake Elsinore",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-elsinore-6th-adopted082522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-elsinore-6th-draft041522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-elsinore-6th-draft112421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-elsinore-6th-draft082321.pdf"
+        ]
+    },
+    {
+        "city": "Lake Forest",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LakeForest-6th-Adopted-010623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-forest-6th-adopted082422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-forest-6th-adopted010622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lake-forest-6th-draft092321.pdf"
+        ]
+    },
+    {
+        "city": "Lakeport",
+        "county": "Lake",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lakeport-6th-draft052020.pdf"
+        ]
+    },
+    {
+        "city": "Lakewood",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lakewood-6th-adopted081222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lakewood-6th-draft071922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lakewood-6th-draft122121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lakewood-6th-draft091721.pdf"
+        ]
+    },
+    {
+        "city": "Lancaster",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Lancaster-6th-Adopted-011323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lancaster-6th-adopted062422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lancaster-6th-draft101821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lancaster-6th-draft071321.pdf"
+        ]
+    },
+    {
+        "city": "Larkspur",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Larkspur-6th-Draft-013123.pdf"
+        ]
+    },
+    {
+        "city": "Lathrop",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Lawndale",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lawndale-6th-adopted100622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lawndale-6th-adopted021522.pdf"
+        ]
+    },
+    {
+        "city": "Lemon Grove",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LemonGrove-6th-Adopted-051023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lemon-grove-6th-draft071922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lemon-grove-6th-adopted081221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lemon-grove-6th-draft062521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lemon-grove-6th-draft060721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lemon_grove_draft042321.pdf"
+        ]
+    },
+    {
+        "city": "Lemoore",
+        "county": "Kings",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Lincoln",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lincoln-6th-adopted052121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lincoln-6th-draft121520.pdf"
+        ]
+    },
+    {
+        "city": "Lindsay",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Live Oak",
+        "county": "Sutter",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/live-oak-6th-adopted090821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/live-oak-6th-draft081621.pdf"
+        ]
+    },
+    {
+        "city": "Livermore",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Livermore-6th-Adopted-031423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/livermore-6th-draft122822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/livermore-6th-adopted071922.pdf"
+        ]
+    },
+    {
+        "city": "Livingston",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Lodi",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Loma Linda",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LomaLinda-6th-Adopted-011223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/loma-linda-6th-adopted021422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/loma-linda-6th-draft122921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/loma-linda-6th-draft092321.pdf"
+        ]
+    },
+    {
+        "city": "Lomita",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/lomita-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lomita-6th-adopted011222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lomita-6th-draft071621.pdf"
+        ]
+    },
+    {
+        "city": "Lompoc",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Lompoc-6th-Draft-051123.pdf"
+        ]
+    },
+    {
+        "city": "Long Beach",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/long-beach-6th-draft021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/long-beach-6th-draft111921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/long-beach-6th-draft072021.pdf"
+        ]
+    },
+    {
+        "city": "Loomis",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/loomis-6th-adopted082521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/loomis-6th-draft051321.pdf"
+        ]
+    },
+    {
+        "city": "Los Alamitos",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LosAlamitos-6th-Adopted-030623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/LosAlamitos-6th-Draft-112222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-alamitos-6th-adopted082322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-alamitos-6th-draft110321.pdf"
+        ]
+    },
+    {
+        "city": "Los Altos",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LosAltos-6th-Adopted-013023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-altos-6th-draft081222.pdf"
+        ]
+    },
+    {
+        "city": "Los Altos Hills",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LosAltosHills-6th-Adopted-042723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/LosAltosHills-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-altos-hills-6th-draft102722.pdf"
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/los-angeles-6th-adopted061422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-angeles-6th-adopted042822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-angeles-6th-adopted112421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-angeles-6th-draft070721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-angeles-co-6th-draft060721.pdf"
+        ]
+    },
+    {
+        "city": "Los Banos",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Los Gatos",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/LosGatos-6th-Draft-033123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/LosGatos-6th-Adopted-021323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/los-gatos-6th-draft101422.pdf"
+        ]
+    },
+    {
+        "city": "Loyalton",
+        "county": "Sierra",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/loyalton-6th-adopted051121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/loyalton-6th-draft032421.pdf"
+        ]
+    },
+    {
+        "city": "Lynwood",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Lynwood-6th-Adopted-050523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lynwood-6th-adopted060822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/lynwood-6th-draft081921.pdf"
+        ]
+    },
+    {
+        "city": "Madera",
+        "county": "Madera",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Malibu",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/malibu-6th-adopted012122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/malibu-6th-draft082521.pdf"
+        ]
+    },
+    {
+        "city": "Mammoth Lakes",
+        "county": "Mono",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/mammoth-lakes-6th-adopted082619.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/mammoth-lakes-6th-draft042319.pdf"
+        ]
+    },
+    {
+        "city": "Manhattan Beach",
+        "county": "Los Angeles",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/manhattan-beach-6th-adopted092322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/manhattan-beach-6th-draft081622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/manhattan-beach-6th-adopted040422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/manhattan-beach-6th-draft101521.pdf"
+        ]
+    },
+    {
+        "city": "Manteca",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Maricopa",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/maricopa-6th-adopted030822.pdf"
+        ]
+    },
+    {
+        "city": "Marina",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Marina-5th-Adopted-041223.pdf"
+        ]
+    },
+    {
+        "city": "Martinez",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": []
+    },
+    {
+        "city": "Marysville",
+        "county": "Yuba",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/marysville-6th-adopted121021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/marysville-6th-adopted082321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/marysville-6th-draft031721.pdf"
+        ]
+    },
+    {
+        "city": "Maywood",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/maywood-6th-adopted101722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/maywood-6th-draft071922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/maywood-6th-draft111121.pdf"
+        ]
+    },
+    {
+        "city": "McFarland",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/mcfarland-6th-draft120122.pdf"
+        ]
+    },
+    {
+        "city": "Mendota",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Menifee",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Menifee-6th-Adopted-031023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-adopted112322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-draft071122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-adopted030122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-draft121521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-draft091621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menifee-6th-draft062221.pdf"
+        ]
+    },
+    {
+        "city": "Menlo Park",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/MenloPark-6th-Adopted-020823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/menlo-park-6th-draft072522.pdf"
+        ]
+    },
+    {
+        "city": "Merced",
+        "county": "Merced",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Mill Valley",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/mill-valley-6th-draft082322.pdf"
+        ]
+    },
+    {
+        "city": "Millbrae",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Millbrae-6th-Draft-050123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/millbrae-6th-draft102622.pdf"
+        ]
+    },
+    {
+        "city": "Milpitas",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Milpitas-6th-Adopted-051623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/milpitas-6th-draft101822.pdf"
+        ]
+    },
+    {
+        "city": "Mission Viejo",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/mission-viejo-6th-adopted101321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/mission-viejo-6th-draft070921.pdf"
+        ]
+    },
+    {
+        "city": "Modesto",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Monrovia",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/monrovia-6th-adopted110322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monrovia-6th-draft022422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monrovia-6th-draft102021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monrovia-6th-draft062221.pdf"
+        ]
+    },
+    {
+        "city": "Montague",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Montclair",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/montclair-6th-draft071922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/montclair-6th-draft041322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/montclair-6th-draft110521.pdf"
+        ]
+    },
+    {
+        "city": "Monte Sereno",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/MonteSereno-6th-Adopted-020123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monte-sereno-6th-draft101222.pdf"
+        ]
+    },
+    {
+        "city": "Montebello",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/montebello-6th-adopted062422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/montebello-6th-draft060122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/montebello-6th-draft011922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/montebello-6th-draft100521.pdf"
+        ]
+    },
+    {
+        "city": "Monterey",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Monterey Park",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/MontereyPark-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monterey-park-6th-adopted120222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monterey-park-6th-adopted020122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/monterey-park-6th-draft100721.pdf"
+        ]
+    },
+    {
+        "city": "Moorpark",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Moorpark-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moorpark-6th-draft093022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moorpark-6th-draft070522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moorpark-6th-draft020822.pdf"
+        ]
+    },
+    {
+        "city": "Moraga",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Moraga-6th-Draft-050923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Moraga-6th-Adopted-012623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moraga-6th-draft081222.pdf"
+        ]
+    },
+    {
+        "city": "Moreno Valley",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/moreno-valley-6th-draft081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moreno-valley-6th-adopted110921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moreno_valley_6th_draft021921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/moreno_valley_6th_sites_inventory_draft021921.xlsx"
+        ]
+    },
+    {
+        "city": "Morgan Hill",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/MorganHill-6th-Adopted-020223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/morgan-hill-6th-draft081922.pdf"
+        ]
+    },
+    {
+        "city": "Morro Bay",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/morro-bay-6th-adopted090220.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/morro-bay-6th-draft042820.pdf"
+        ]
+    },
+    {
+        "city": "Mount Shasta",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Mountain View",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/MountainView-6th-Adopted-042623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/MountainView-6th-Draft-111822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/mountain-view-6th-draft070122.pdf"
+        ]
+    },
+    {
+        "city": "Murrieta",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Murrieta-6th-Draft-031623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/murrieta-6th-draft110722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/murrieta-6th-draft040522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/murrieta-6th-draft070221.pdf"
+        ]
+    },
+    {
+        "city": "Napa",
+        "county": "Napa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Napa-6th-Draft-021623.pdf"
+        ]
+    },
+    {
+        "city": "National City",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/national-city-6th-adopted081321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/national-city-6th-draft052621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/national_city_6th_draft021621.pdf"
+        ]
+    },
+    {
+        "city": "Needles",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/needles-6th-adopted091522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/needles-6th-draft062722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/needles-6th-draft110121.pdf"
+        ]
+    },
+    {
+        "city": "Nevada City",
+        "county": "Nevada",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/nevada-city-6th-adopted111919.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/nevada-city-6th-draft062519.pdf"
+        ]
+    },
+    {
+        "city": "Newark",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Newark-6th-Draft-041323.pdf"
+        ]
+    },
+    {
+        "city": "Newman",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Newport Beach",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/newport-beach-6th-adopted091522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/newport-beach-6th-draft062822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/newport-beach-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/newport-beach-6th-draft111721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/newport-beach-6th-draft081321.pdf"
+        ]
+    },
+    {
+        "city": "Norco",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/norco-6th-adopted101022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/norco-6th-draft081622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/norco-6th-draft060122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/norco-6th-adopted102921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/norco-6th-draft061721.pdf"
+        ]
+    },
+    {
+        "city": "Norwalk",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Norwalk-6th-Draft-020123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/norwalk-6th-draft110521.pdf"
+        ]
+    },
+    {
+        "city": "Novato",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Novato-6th-Draft-011223.pdf"
+        ]
+    },
+    {
+        "city": "Oakdale",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Oakland",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Oakland-6th-Adopted-021323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oakland-6th-draft120722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oakland-6th-draft063022.pdf"
+        ]
+    },
+    {
+        "city": "Oakley",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Oakley-6th-Adopted-051123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Oakley-6thj-Adopted-032923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Oakley-6th-Draft-012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oakley-6th-draft083122.pdf"
+        ]
+    },
+    {
+        "city": "Oceanside",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-adopted120622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-draft022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oceanside-6th-draft040221.pdf"
+        ]
+    },
+    {
+        "city": "Ojai",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ojai-6th-adopted121522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ojai-6th-adopted101321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ojai-6th-draft072021.pdf"
+        ]
+    },
+    {
+        "city": "Ontario",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ontario-6th-adopted082322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ontario-6th-adopted031122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ontario-6th-draft101421.pdf"
+        ]
+    },
+    {
+        "city": "Orange",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Orange-6th-adopted-021523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Orange-6th-Draft-112822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/orange-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/orange-6th-draft071521.pdf"
+        ]
+    },
+    {
+        "city": "Orange Cove",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Orinda",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Orinda-6th-Adopted-020123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Orinda-6th-Draft-111622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/orinda-6th-draft051622.pdf"
+        ]
+    },
+    {
+        "city": "Orland",
+        "county": "Glenn",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/orland-6th-adopted031722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/orland-6th-draft101321.pdf"
+        ]
+    },
+    {
+        "city": "Oroville",
+        "county": "Butte",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Oroville-6th-Adopted-042623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Oroville-6th-Draft-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oroville-6th-draft072822.pdf"
+        ]
+    },
+    {
+        "city": "Oxnard",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/oxnard-6th-adopted100522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oxnard-6th-draft051222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oxnard-6th-adopted101221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/oxnard-6th-draft051421.pdf"
+        ]
+    },
+    {
+        "city": "Pacific Grove",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Pacifica",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Pacifica-6th-Draft-051023.pdf"
+        ]
+    },
+    {
+        "city": "Palm Desert",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-desert-6th-adopted101222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-desert-draft072822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-desert-6th-adopted040522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-desert-6th-draft092821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm_desert-6th-draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Palm Springs",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/PalmSprings-6th-Draft-032823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft111821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palm-springs-6th-draft080221.pdf"
+        ]
+    },
+    {
+        "city": "Palmdale",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Palmdale-6th-Adopted-040523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palmdale-6th-adopted112322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palmdale-6th-draft062722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palmdale-6th-adopted031622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palmdale-6th-draft091721.pdf"
+        ]
+    },
+    {
+        "city": "Palo Alto",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/palo-alto-6th-draft122322.pdf"
+        ]
+    },
+    {
+        "city": "Palos Verdes Estates",
+        "county": "Los Angeles",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/palos-verdes-estates-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palos-verdes-estates-6th-draft100521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/palos-verdes-estates-6th-draft071521.pdf"
+        ]
+    },
+    {
+        "city": "Paradise",
+        "county": "Butte",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Paradise-6th-Adopted-020823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/paradise-6th-adopted061522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/paradise-6th-draft011822.pdf"
+        ]
+    },
+    {
+        "city": "Paramount",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/paramount-6th-draft081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/paramount-6th-adopted041122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/paramount-6th-draft092221.pdf"
+        ]
+    },
+    {
+        "city": "Parlier",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Pasadena",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Pasadena-6th-Adopted-011123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pasadena-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pasadena-6th-draft122921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pasadena-6th-draft081221.pdf"
+        ]
+    },
+    {
+        "city": "Paso Robles",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-adopted120920.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/paso-robles-6th-draft081120.pdf"
+        ]
+    },
+    {
+        "city": "Patterson",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Perris",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/perris-6th-draft080322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/perris-6th-adopted051322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/perris-reso-6th-adopted012822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/perris-6th-draft012022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/perris-6th-draft100521.pdf"
+        ]
+    },
+    {
+        "city": "Petaluma",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Petaluma-6th-Adopted-032223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/petaluma-6th-draft103122.pdf"
+        ]
+    },
+    {
+        "city": "Pico Rivera",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/PicoRivera-6th-Draft-021423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pico-rivera-draft032422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pico-rivera-6th-draft081921.pdf"
+        ]
+    },
+    {
+        "city": "Piedmont",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Piedmont-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Piedmont-6th-Draft-111822.pdf"
+        ]
+    },
+    {
+        "city": "Pinole",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Pinole-6th-Adopted-040623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pinole-6th-draft120222.pdf"
+        ]
+    },
+    {
+        "city": "Pismo Beach",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/pismo-beach-6th-adopted112320.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pismo-beach-6th-draft072120.pdf"
+        ]
+    },
+    {
+        "city": "Pittsburg",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Pittsburg-6th-Draft-050423.pdf"
+        ]
+    },
+    {
+        "city": "Placentia",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/placentia-6th-adopted031722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/placentia-6th-draft102121.pdf"
+        ]
+    },
+    {
+        "city": "Placerville",
+        "county": "El Dorado",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/placerville-6th-adopted122022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/placerville-6th-draft111022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/placerville-6th-adopted090321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/placerville-6th-draft051421.pdf"
+        ]
+    },
+    {
+        "city": "Pleasant Hill",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/pleasant-hill-6th-draft122722.pdf"
+        ]
+    },
+    {
+        "city": "Pleasanton",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Pleasanton-6th-Draft-021423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pleasanton-6th-draft081622.pdf"
+        ]
+    },
+    {
+        "city": "Plymouth",
+        "county": "Amador",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Plymouth-6th-Draft-020823.pdf"
+        ]
+    },
+    {
+        "city": "Point Arena",
+        "county": "Mendocino",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/point-arena-6th-adopted102219.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/point-arena-6th-draft073019.pdf"
+        ]
+    },
+    {
+        "city": "Pomona",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/pomona-6th-draft080822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pomona-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/pomona-6th-draft111121.pdf"
+        ]
+    },
+    {
+        "city": "Port Hueneme",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/port-hueneme-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/port-hueneme-6th-adopted042622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/port-hueneme-6th-draft062321.pdf"
+        ]
+    },
+    {
+        "city": "Porterville",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Portola",
+        "county": "Plumas",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/portola-6th-adopted082019.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/portola-6th-draft051519.pdf"
+        ]
+    },
+    {
+        "city": "Portola Valley",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/portola-valley-6th-draft081122.pdf"
+        ]
+    },
+    {
+        "city": "Poway",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/poway-6th-draft051221.pdf"
+        ]
+    },
+    {
+        "city": "Rancho Cordova",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-adopted063021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft032421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cordova-6th-draft121520.pdf"
+        ]
+    },
+    {
+        "city": "Rancho Cucamonga",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cucamonga-draft071922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cucamonga-6th-adopted122021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cucamonga-6th-draft090221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-cucamonga-6th-draft060321.pdf"
+        ]
+    },
+    {
+        "city": "Rancho Mirage",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-mirage-6th-adopted072822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-mirage-6th-draft053122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-mirage-6th-adopted031522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-mirage-6th-draft092421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-mirage-6th-draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Rancho Palos Verdes",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-palos-verdes-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-palos-verdes-6th-draft111921.pdf"
+        ]
+    },
+    {
+        "city": "Rancho Santa Margarita",
+        "county": "Orange",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-santa-margarita-6th-adopted082522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-santa-margarita-6th-draft061622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-santa-margarita-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rancho-santa-margarita-6th-draft102221.pdf"
+        ]
+    },
+    {
+        "city": "Red Bluff",
+        "county": "Tehama",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/red-bluff-6th-adopted050620.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/red-bluff-6th-draft022120.pdf"
+        ]
+    },
+    {
+        "city": "Redding",
+        "county": "Shasta",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/redding-6th-adopted061620.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redding-6th-draft021920.pdf"
+        ]
+    },
+    {
+        "city": "Redlands",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/redlands-6th-adotped100622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redlands-6th-draft072922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redlands-6th-draft010522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redlands-6th-draft091721.pdf"
+        ]
+    },
+    {
+        "city": "Redondo Beach",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/redondo-beach-6th-adopted071122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redondo-beach-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redondo-beach-6th-adopted100721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/redondo-beach-6th-draft071321.pdf"
+        ]
+    },
+    {
+        "city": "Redwood City",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/RedwoodCity-6th-Adopted-022223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/RedWoodCity-6th-Draft-011723.pdf"
+        ]
+    },
+    {
+        "city": "Reedley",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Rialto",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Rialto-6th-Adopted-022823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rialto-6th-adopted081122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rialto-6th-adopted040522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rialto-6th-draft101421.pdf"
+        ]
+    },
+    {
+        "city": "Richmond",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Richmond-6th-Adopted-020623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/richmond-6th-draft120922.pdf"
+        ]
+    },
+    {
+        "city": "Ridgecrest",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Rio Dell",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rio-dell-6th-adopted061622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rio-dell-6th-adopted110520.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rio-dell-6th-draft092820.pdf"
+        ]
+    },
+    {
+        "city": "Rio Vista",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/RioVista-6th-Adopted-042123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rio-vista-6th-draft121322.pdf"
+        ]
+    },
+    {
+        "city": "Ripon",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Riverbank",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Riverside",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/riverside-6th-adopted082222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/riverside-6th-adopted040622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/riverside-6th-draft080621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/riverside-6th-draft051021.pdf"
+        ]
+    },
+    {
+        "city": "Rocklin",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rocklin-6th-adopted090121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rocklin-6th-draft052121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rocklin-6th-draft122320.pdf"
+        ]
+    },
+    {
+        "city": "Rohnert Park",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/RohnertPark-6th-Adopted-012623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rohnert-park-6th-draft092022.pdf"
+        ]
+    },
+    {
+        "city": "Rolling Hills",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-6th-adopted092822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-6th-draft052422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-6th-draft011122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-5th-draft022621.pdf"
+        ]
+    },
+    {
+        "city": "Rolling Hills Estates",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/RollingHillsEstates-6th-Adopted-042723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/RollingHillsEstates-6th-Draft-032123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-estates-6th-draft120922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-estates-6th-adopted042722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-estates-6th-draft072821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rolling-hills-estates-6th-draft060921.pdf"
+        ]
+    },
+    {
+        "city": "Rosemead",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/rosemead-6th-draft060322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rosemead-6th-adopted011922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/rosemead-6th-draft091621.pdf"
+        ]
+    },
+    {
+        "city": "Roseville",
+        "county": "Placer",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/roseville-6th-adopted081921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/roseville-6th-draft041621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/roseville-6th-informal121820.pdf"
+        ]
+    },
+    {
+        "city": "Ross",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ross-6th-draft121322.pdf"
+        ]
+    },
+    {
+        "city": "Sacramento",
+        "county": "Sacramento",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/sacramento-6th-adopted121421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sacramento-6th-adopted082021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sacramento-6th-draft040821.pdf"
+        ]
+    },
+    {
+        "city": "Salinas",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "San Anselmo",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanAnselmo-6th-Draft-012623.pdf"
+        ]
+    },
+    {
+        "city": "San Bernardino",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": []
+    },
+    {
+        "city": "San Bruno",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanBruno-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-bruno-6th-draft070822.pdf"
+        ]
+    },
+    {
+        "city": "San Carlos",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanCarlos-6th-Adopted-012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-carlos-6th-draft101422.pdf"
+        ]
+    },
+    {
+        "city": "San Clemente",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-clemente-6th-adopted092222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-clemente-6th-draft062322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-clemente-6th-adopted101421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-clemente-6th-draft060721.pdf"
+        ]
+    },
+    {
+        "city": "San Diego",
+        "county": "San Diego",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-diego-6th-adopted061421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-diego-cou-6th-draft032221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-diego-6th-draft041620.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-diego-6th-draft112519.pdf"
+        ]
+    },
+    {
+        "city": "San Dimas",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-dimas-6th-adopted092922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-dimas-6th-draft080422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-dimas-6th-draft093021.pdf"
+        ]
+    },
+    {
+        "city": "San Fernando",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-fernando-6th-subsequentdraft061022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-fernando-6th-draft111221.pdf"
+        ]
+    },
+    {
+        "city": "San Francisco",
+        "county": "San Francisco",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanFrancisco-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-francisco-6th-draft122322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-francisco-6th-draft101722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-francisco-6th-draft051022.pdf"
+        ]
+    },
+    {
+        "city": "San Gabriel",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-gabriel-6th-adopted020722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-gabriel-6th-draft120321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-gabriel-6th-draft082021.pdf"
+        ]
+    },
+    {
+        "city": "San Jacinto",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanJacinto-6th-Adopted-021423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-jacinto-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-jacinto-6th-draft112321.pdf"
+        ]
+    },
+    {
+        "city": "San Joaquin",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "San Jose",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-jose-6th-draft091622.pdf"
+        ]
+    },
+    {
+        "city": "San Juan Bautista",
+        "county": "San Benito",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "San Juan Capistrano",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-juan-capistrano-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-juan-capistrano-6th-adopted020922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-juan-capistrano-6th-draft092221.pdf"
+        ]
+    },
+    {
+        "city": "San Leandro",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-leandro-6th-adopted120922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-leandro-6th-draft081622.pdf"
+        ]
+    },
+    {
+        "city": "San Luis Obispo",
+        "county": "San Luis Obispo",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted072321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-adopted122220.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-cou-6th-adopted121120.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-6th-draft070720.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-luis-obispo-cou-6th-draft062620.pdf"
+        ]
+    },
+    {
+        "city": "San Marcos",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-marcos-6th-adopted080321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-marcos-6th-draft051921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san_marcos-6th-draft031221.pdf"
+        ]
+    },
+    {
+        "city": "San Marino",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-marino-6th-adopted021122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-marino-6th-draft110121.pdf"
+        ]
+    },
+    {
+        "city": "San Mateo",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanMateo-6th-Adopted-013023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-mateo-draft-6th070122.pdf"
+        ]
+    },
+    {
+        "city": "San Pablo",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/san-pablo-6th-draft100322.pdf"
+        ]
+    },
+    {
+        "city": "San Rafael",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanRafael-6th-Adopted-051823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-rafael-6th-draft122022.pdf"
+        ]
+    },
+    {
+        "city": "San Ramon",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SanRamon-6th-Adopted-020623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-ramon-6th-draft122922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-ramon-6th-draft072022.pdf"
+        ]
+    },
+    {
+        "city": "Sand City",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Sanger",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Santa Ana",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-ana-6th-adopted072622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-ana-6th-draft022422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-ana-6th-draft102121.pdf"
+        ]
+    },
+    {
+        "city": "Santa Barbara",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaBarbara-6th-Draft-041923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-barbara-6th-draft081922.pdf"
+        ]
+    },
+    {
+        "city": "Santa Clara",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaClara-6th-Adopted-020123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-clara-6th-draft082222.pdf"
+        ]
+    },
+    {
+        "city": "Santa Clarita",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-clarita-6th-draft121622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-clarita-6th-adopted051122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-clarita-6th-draft111221.pdf"
+        ]
+    },
+    {
+        "city": "Santa Cruz",
+        "county": "Santa Cruz",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaCruz-6th-Draft-051023.pdf"
+        ]
+    },
+    {
+        "city": "Santa Fe Springs",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-fe-springs-6th-draft120122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-fe-springs-6th-adopted032522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-fe-springs-6th-draft072821.pdf"
+        ]
+    },
+    {
+        "city": "Santa Maria",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaMaria-6th-Draft-020223.pdf"
+        ]
+    },
+    {
+        "city": "Santa Monica",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-adopted101222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-draft070822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-adopted111021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-monica-6th-draft070121.pdf"
+        ]
+    },
+    {
+        "city": "Santa Paula",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaPaula-6th-Adopted-042823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-paula-6th-adopted062122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-paula-6th-draft091621.pdf"
+        ]
+    },
+    {
+        "city": "Santa Rosa",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SantaRosa-6th-Adopted-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santa-rosa-6th-draft080322.pdf"
+        ]
+    },
+    {
+        "city": "Santee",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Santee-6th-Adopted-102722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted051322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted021522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-adopted072121.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-draft062521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/santee-6th-draft012921.pdf"
+        ]
+    },
+    {
+        "city": "Saratoga",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Saratoga-6th-Draft-012623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/saratoga-6th-draft072822.pdf"
+        ]
+    },
+    {
+        "city": "Sausalito",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Sausalito-6th-Adopted-022723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sausalito-6th-draft103122.pdf"
+        ]
+    },
+    {
+        "city": "Scotts Valley",
+        "county": "Santa Cruz",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Seal Beach",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/seal-beach-6th-adopted020922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/seal-beach-6th-draft092121.pdf"
+        ]
+    },
+    {
+        "city": "Seaside",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Sebastopol",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Sebastopol-6th-Adopted-010923.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sebastopol-6th-draft090222.pdf"
+        ]
+    },
+    {
+        "city": "Selma",
+        "county": "Fresno",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Shafter",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Shafter-6th-Draft-051623.pdf"
+        ]
+    },
+    {
+        "city": "Shasta Lake",
+        "county": "Shasta",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/shasta-lake-6th-adopted081220.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/shasta-lake-6th-draft041420.pdf"
+        ]
+    },
+    {
+        "city": "Sierra Madre",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-adopted072822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft040522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft091621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-draft061421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sierra-madre-6th-adopted11182.pdf"
+        ]
+    },
+    {
+        "city": "Signal Hill",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-adopted092822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft061522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft031522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/signal-hill-6th-draft091521.pdf"
+        ]
+    },
+    {
+        "city": "Simi Valley",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SimiValley-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/SimiValley-6th-Adopted-111522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/simi-valley-6th-adopted102821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/simi-valley-6th-draft061621.pdf"
+        ]
+    },
+    {
+        "city": "Solana Beach",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Adopted-051523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Draft-030323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/SolanaBeach-6th-Adopted-120722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/solana-beach-6th-adopted042221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/solana-beach-6th-draft121820.pdf"
+        ]
+    },
+    {
+        "city": "Soledad",
+        "county": "Monterey",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Solvang",
+        "county": "Santa Barbara",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/solvang-6thSiteInventory-draft010623.xlsx",
+            "https://www.hcd.ca.gov/housing-elements/docs/solvang-6th-draft010623.pdf"
+        ]
+    },
+    {
+        "city": "Sonoma",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Sonoma6th-Adopted-021423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sonoma-6th-draft102622.pdf"
+        ]
+    },
+    {
+        "city": "Sonora",
+        "county": "Tuolumne",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/sonora-6th-adopted042820.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sonora-6th-draft102819.pdf"
+        ]
+    },
+    {
+        "city": "South El Monte",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-adopted060222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-adopted102221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-el-monte-6th-draft070921.pdf"
+        ]
+    },
+    {
+        "city": "South Gate",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/south-gate-5th-adopted072022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-gate-6th-draft101321.pdf"
+        ]
+    },
+    {
+        "city": "South Lake Tahoe",
+        "county": "El Dorado",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-adopted070722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-draft032422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-lake-tahoe-6th-draft122321.pdf"
+        ]
+    },
+    {
+        "city": "South Pasadena",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SouthPasadena-6th-Draft-050823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft121322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-adopted091622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft051122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-pasadena-6th-draft102221.pdf"
+        ]
+    },
+    {
+        "city": "South San Francisco",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SouthSanFrancisco-6th-Adopted-013123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/south-san-francisco-6th-draft090922.pdf"
+        ]
+    },
+    {
+        "city": "St. Helena",
+        "county": "Napa",
+        "planning_agency": "ABAG",
+        "housing_element": []
+    },
+    {
+        "city": "Stanton",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-adopted070822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-adopted022522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/stanton-6th-draft101821.pdf"
+        ]
+    },
+    {
+        "city": "Stockton",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Suisun City",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/SuisunCity-6th-Adopted-032323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/suisun-city-6th-draft100422.pdf"
+        ]
+    },
+    {
+        "city": "Sunnyvale",
+        "county": "Santa Clara",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/sunnyvale-6th-draft070822.pdf"
+        ]
+    },
+    {
+        "city": "Susanville",
+        "county": "Lassen",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-adopted041420.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-draft022420.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/susanville-6th-draft082619.pdf"
+        ]
+    },
+    {
+        "city": "Sutter Creek",
+        "county": "Amador",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Sutter-Creek-6th-Draft-020823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/sutter-creek-6th-draft041421.pdf"
+        ]
+    },
+    {
+        "city": "Taft",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Tehachapi",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Tehama",
+        "county": "Tehama",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/tehama-6th-adopted102320.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tehama-6th-draft100720.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tehama-cou-6th-adopted090419.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tehama-cou-6th-draft060619.pdf"
+        ]
+    },
+    {
+        "city": "Temecula",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-adopted101722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/temecula-6th-draft100521.pdf"
+        ]
+    },
+    {
+        "city": "Temple City",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-adopted101922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft050422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft111921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/temple-city-6th-draft070621.pdf"
+        ]
+    },
+    {
+        "city": "Thousand Oaks",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ThousandOaks-6th-Adopted-020223.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/thousand-oaks-6th-adopted020722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/thousand-oaks-6th-draft100621.pdf"
+        ]
+    },
+    {
+        "city": "Tiburon",
+        "county": "Marin",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Tiburon-6th-Draft-021623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tiburon-6th-draft092722.pdf"
+        ]
+    },
+    {
+        "city": "Torrance",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-adopted081522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-draft051722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-draft101521.pdf"
+        ]
+    },
+    {
+        "city": "Tracy",
+        "county": "San Joaquin",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Trinidad",
+        "county": "Humboldt",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/trinidad-6th-draft03202020.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/trinidad-6th-adopted042220.pdf"
+        ]
+    },
+    {
+        "city": "Truckee",
+        "county": "Nevada",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/truckee-6th-adopted083019.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/truckee-6th-draft053119.pdf"
+        ]
+    },
+    {
+        "city": "Tulare",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Tulelake",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Turlock",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Tustin",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted100522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-draft072122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted032222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-adopted101421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/tustin-6th-draft070121.pdf"
+        ]
+    },
+    {
+        "city": "Twentynine Palms",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/TwentyNinePalms-6th-Adopted-010423.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/twenty-nine-palms-6th-draft040822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/twentynine-palms-6th-draft112921.pdf"
+        ]
+    },
+    {
+        "city": "Ukiah",
+        "county": "Mendocino",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-adopted102819.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/ukiah-6th-draft052819.pdf"
+        ]
+    },
+    {
+        "city": "Union City",
+        "county": "Alameda",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/UnionCity-6th-Draft-013023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/union-city-6th-draft072822.pdf"
+        ]
+    },
+    {
+        "city": "Upland",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-adopted102522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-draft032422.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/upland-6th-draft092321.pdf"
+        ]
+    },
+    {
+        "city": "Vacaville",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Vacaville-6th-Draft-022323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vacaville-6th-draft101722.pdf"
+        ]
+    },
+    {
+        "city": "Vallejo",
+        "county": "Solano",
+        "planning_agency": "ABAG",
+        "housing_element": []
+    },
+    {
+        "city": "Ventura",
+        "county": "Ventura",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Ventura-6th-Adopted-051123.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Ventura-6th-Adopted-011823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-buenaventura-6th-adopted022222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/san-buenaventura-6th-draft081221.pdf"
+        ]
+    },
+    {
+        "city": "Vernon",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Vernon-6th-Draft-031623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vernon-6th-draft031622.pdf"
+        ]
+    },
+    {
+        "city": "Victorville",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-adopted011922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft111221.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft102821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/victorville-6th-draft072021.pdf"
+        ]
+    },
+    {
+        "city": "Villa Park",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/VillaPark-6th-Draft-051823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft121622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-adopted062922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-adopted100821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft060421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/villa-park-6th-draft122220.pdf"
+        ]
+    },
+    {
+        "city": "Visalia",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Vista",
+        "county": "San Diego",
+        "planning_agency": "SANDAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-Adopted-071222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-adopted032822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-adopted071321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-draft052021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/vista-6th-draft011921.pdf"
+        ]
+    },
+    {
+        "city": "Walnut",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Walnut-6th-Adopted-051823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/Walnut-6th-Adopted-031023.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-adopted120722.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-adopted050222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-6th-draft101221.pdf"
+        ]
+    },
+    {
+        "city": "Walnut Creek",
+        "county": "Contra Costa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6thAppendix(A)-adopted012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6th-adopted012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6thAppendix(B)(C)-adopted012723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/walnut-creek-6th-draft090622.pdf"
+        ]
+    },
+    {
+        "city": "Wasco",
+        "county": "Kern",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Waterford",
+        "county": "Stanislaus",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Watsonville",
+        "county": "Santa Cruz",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Weed",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "West Covina",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/WestCovina-6th-Adopted-111622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-covina-6th-draft111621.pdf"
+        ]
+    },
+    {
+        "city": "West Hollywood",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/WestHollywood-6th-Adopted-022723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-hollywood-6th-draft092822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-hollywood-6th-draft100421.pdf"
+        ]
+    },
+    {
+        "city": "West Sacramento",
+        "county": "Yolo",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-ord-6th-adopted113021.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-adopted071521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-draft040621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/west-sacramento-6th-draft020221.pdf"
+        ]
+    },
+    {
+        "city": "Westlake Village",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-adopted121421.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-draft090321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westlake-village-6th-draft051721.pdf"
+        ]
+    },
+    {
+        "city": "Westminster",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Westminster-6th-Adopted-032723.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-draft120222.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-adopted020122.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westminster-6th-draft102021.pdf"
+        ]
+    },
+    {
+        "city": "Westmorland",
+        "county": "Imperial",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/westmorland-6th-draft092922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/westmorland-6th-draft081822.pdf"
+        ]
+    },
+    {
+        "city": "Wheatland",
+        "county": "Yuba",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/wheatland-6th-adopted040822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/wheatland-6th-draft080621.pdf"
+        ]
+    },
+    {
+        "city": "Whittier",
+        "county": "Los Angeles",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-adopted081622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-adopted101521.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/whittier-6th-draft061121.pdf"
+        ]
+    },
+    {
+        "city": "Wildomar",
+        "county": "Riverside",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/wildomar-6th-adopted101821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/wildomar-6th-052121.pdf"
+        ]
+    },
+    {
+        "city": "Williams",
+        "county": "Colusa",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/williams-6th-adopted120420.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/williams-6th-draft062220.pdf"
+        ]
+    },
+    {
+        "city": "Willits",
+        "county": "Mendocino",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/willits-6th-adopted121719.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/willits-6th-draft090919.pdf"
+        ]
+    },
+    {
+        "city": "Willows",
+        "county": "Glenn",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Willows-6th-Adopted-021523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-draft112322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-adopted072522.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-adopted111721.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/willows-6th-draft080621.pdf"
+        ]
+    },
+    {
+        "city": "Windsor",
+        "county": "Sonoma",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Windsor-6th-Draft-031523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/windsor-6th-draft110222.pdf"
+        ]
+    },
+    {
+        "city": "Winters",
+        "county": "Yolo",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-adopted032922.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-adopted092921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/winters-6th-draft052721.pdf"
+        ]
+    },
+    {
+        "city": "Woodlake",
+        "county": "Tulare",
+        "planning_agency": "",
+        "housing_element": []
+    },
+    {
+        "city": "Woodland",
+        "county": "Yolo",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Woodland-6th-Adopted-040323.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft112822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft061622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-adopted091321.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/woodland-6th-draft051421.pdf"
+        ]
+    },
+    {
+        "city": "Woodside",
+        "county": "San Mateo",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Woodside-6th-Draft-031623.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/woodside-6th-draft071822.pdf"
+        ]
+    },
+    {
+        "city": "Yorba Linda",
+        "county": "Orange",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-adopted021022.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-draft120821.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yorba-linda-6th-draft082721.pdf"
+        ]
+    },
+    {
+        "city": "Yountville",
+        "county": "Napa",
+        "planning_agency": "ABAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Yountville-6th-Adopted-022823.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yountville-6th-draft082222.pdf"
+        ]
+    },
+    {
+        "city": "Yreka",
+        "county": "Siskiyou",
+        "planning_agency": "",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/Yreka-6th-Adopted-021523.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yreka-6th-draft091222.pdf"
+        ]
+    },
+    {
+        "city": "Yuba City",
+        "county": "Sutter",
+        "planning_agency": "SACOG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/yuba-city-6th-adopted091621.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yuba-city-6th-draft061521.pdf"
+        ]
+    },
+    {
+        "city": "Yucaipa",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-adopted100622.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft090822.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft052322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yucaipa-6th-draft090221.pdf"
+        ]
+    },
+    {
+        "city": "Yucca Valley",
+        "county": "San Bernardino",
+        "planning_agency": "SCAG",
+        "housing_element": [
+            "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-adopted041322.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-draft102921.pdf",
+            "https://www.hcd.ca.gov/housing-elements/docs/yucca-valley-6th-draft081221.pdf"
+        ]
+    }
+]
